@@ -8,7 +8,11 @@ We see. We learn. We try to understand things around us, we go around. We wander
 
 ---
 
+## Mathematics
 
+### Numerical Techniques
+
+- Automatic Differentiation
 
 ---
 God's in his heaven, All's right with the world.
