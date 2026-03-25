@@ -12,7 +12,12 @@ We see. We learn. We try to understand things around us, we go around. We wander
 
 ### Numerical Techniques
 
+#### Calculus
 - Automatic Differentiation
+
+#### Root-finding algorithms
+- Bisection Method
+
 
 ---
 God's in his heaven, All's right with the world.
